@@ -1,0 +1,851 @@
+2023-08-16 16:44:40 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 29264 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 16:44:40 -The following profiles are active: dev
+2023-08-16 16:44:41 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 16:44:41 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 16:44:41 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2023-08-16 16:44:41 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 16:44:41 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 16:44:41 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 16:44:41 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 16:47:46 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 43564 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 16:47:46 -The following profiles are active: dev
+2023-08-16 16:47:46 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 16:47:46 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 16:47:46 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2023-08-16 16:47:46 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 16:47:46 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 16:47:46 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 16:47:46 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 16:54:32 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 32236 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 16:54:32 -The following profiles are active: dev
+2023-08-16 16:54:33 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 16:54:33 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 16:54:33 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2023-08-16 16:54:33 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 16:54:33 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 16:54:33 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 16:54:33 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 16:55:08 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 37388 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 16:55:08 -The following profiles are active: dev
+2023-08-16 16:55:09 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 16:55:09 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 16:55:09 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2023-08-16 16:55:09 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 16:55:12 -Started ImWebApplication in 3.771 seconds (JVM running for 5.092)
+2023-08-16 16:56:59 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 34588 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 16:56:59 -The following profiles are active: dev
+2023-08-16 16:56:59 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 16:56:59 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 16:56:59 -Finished Spring Data repository scanning in 9ms. Found 0 Redis repository interfaces.
+2023-08-16 16:56:59 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 16:56:59 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 16:56:59 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 16:56:59 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 16:59:10 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 20196 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 16:59:10 -The following profiles are active: dev
+2023-08-16 16:59:10 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 16:59:10 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 16:59:10 -Finished Spring Data repository scanning in 4ms. Found 0 Redis repository interfaces.
+2023-08-16 16:59:11 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 16:59:13 -Started ImWebApplication in 3.699 seconds (JVM running for 4.978)
+2023-08-16 16:59:55 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 36120 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 16:59:55 -The following profiles are active: dev
+2023-08-16 16:59:55 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 16:59:55 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 16:59:55 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2023-08-16 16:59:55 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 16:59:55 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 16:59:55 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 16:59:56 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 17:01:23 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 38148 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:01:23 -The following profiles are active: dev
+2023-08-16 17:01:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:01:23 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:01:23 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2023-08-16 17:01:23 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 17:01:23 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 17:01:23 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:01:23 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 17:04:36 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 40944 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:04:36 -The following profiles are active: dev
+2023-08-16 17:04:36 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:04:36 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:04:36 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2023-08-16 17:04:36 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 17:04:41 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 17:04:41 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:04:41 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 17:05:04 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 39128 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:05:04 -The following profiles are active: dev
+2023-08-16 17:05:05 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:05:05 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:05:05 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2023-08-16 17:05:05 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 17:05:05 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 17:05:05 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:05:05 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 17:05:17 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 37928 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:05:17 -The following profiles are active: dev
+2023-08-16 17:05:17 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:05:17 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:05:17 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2023-08-16 17:05:17 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 17:05:18 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 17:05:18 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:05:18 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 17:05:46 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 39444 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:05:46 -The following profiles are active: dev
+2023-08-16 17:05:47 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:05:47 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:05:47 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2023-08-16 17:05:47 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 17:05:47 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 17:05:47 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:05:47 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 17:06:28 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 39068 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:06:28 -The following profiles are active: dev
+2023-08-16 17:06:29 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:06:29 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:06:29 -Finished Spring Data repository scanning in 8ms. Found 0 Redis repository interfaces.
+2023-08-16 17:06:29 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 17:06:29 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userMessageServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-16 17:06:29 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:06:29 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.im.UserMessageMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.im.UserMessageMapper' in your configuration.
+
+2023-08-16 17:06:46 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 35044 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:06:46 -The following profiles are active: dev
+2023-08-16 17:06:46 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:06:46 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:06:46 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2023-08-16 17:06:46 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 17:06:47 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMessageServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-08-16 17:06:47 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:06:47 -Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMessageServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:10)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 19 common frames omitted
+2023-08-16 17:07:29 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 28536 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:07:29 -The following profiles are active: dev
+2023-08-16 17:07:29 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:07:29 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:07:29 -Finished Spring Data repository scanning in 7ms. Found 0 Redis repository interfaces.
+2023-08-16 17:07:29 -No MyBatis mapper was found in '[com.xingxing.service, service]' package. Please check your configuration.
+2023-08-16 17:07:29 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMessageServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2023-08-16 17:07:29 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:07:29 -Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userMessageServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:10)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.im.UserMessageMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 19 common frames omitted
+2023-08-16 17:11:41 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 24164 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:11:41 -The following profiles are active: dev
+2023-08-16 17:11:42 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:11:42 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:11:42 -Finished Spring Data repository scanning in 12ms. Found 0 Redis repository interfaces.
+2023-08-16 17:11:44 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+2023-08-16 17:11:44 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:11:44 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:483)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:12)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	... 19 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at springfox.documentation.spi.DocumentationType.<init>(DocumentationType.java:44)
+	at springfox.documentation.spi.DocumentationType.<clinit>(DocumentationType.java:26)
+	at com.xingxing.config.Swagger2Config.coreApiConfig(Swagger2Config.java:25)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$4a99061b.CGLIB$coreApiConfig$0(<generated>)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$4a99061b$$FastClassBySpringCGLIB$$550c5334.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$4a99061b.coreApiConfig(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.http.MediaType
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 33 common frames omitted
+2023-08-16 17:12:55 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 38160 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:12:55 -The following profiles are active: dev
+2023-08-16 17:12:55 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:12:55 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:12:55 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2023-08-16 17:12:57 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+2023-08-16 17:12:57 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:12:57 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:483)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:12)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	... 19 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at springfox.documentation.spi.DocumentationType.<init>(DocumentationType.java:44)
+	at springfox.documentation.spi.DocumentationType.<clinit>(DocumentationType.java:26)
+	at com.xingxing.config.Swagger2Config.coreApiConfig(Swagger2Config.java:25)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$cfdf33d.CGLIB$coreApiConfig$0(<generated>)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$cfdf33d$$FastClassBySpringCGLIB$$1ed4996f.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$cfdf33d.coreApiConfig(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.http.MediaType
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 33 common frames omitted
+2023-08-16 17:13:11 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 40052 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:13:11 -The following profiles are active: dev
+2023-08-16 17:13:12 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:13:12 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:13:12 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2023-08-16 17:13:14 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+2023-08-16 17:13:14 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:13:14 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:483)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:12)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	... 19 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at springfox.documentation.spi.DocumentationType.<init>(DocumentationType.java:44)
+	at springfox.documentation.spi.DocumentationType.<clinit>(DocumentationType.java:26)
+	at com.xingxing.config.Swagger2Config.coreApiConfig(Swagger2Config.java:25)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$1e07fbd0.CGLIB$coreApiConfig$0(<generated>)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$1e07fbd0$$FastClassBySpringCGLIB$$e1a32433.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$1e07fbd0.coreApiConfig(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.http.MediaType
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 33 common frames omitted
+2023-08-16 17:13:18 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 30136 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:13:18 -The following profiles are active: dev
+2023-08-16 17:13:19 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:13:19 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:13:19 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2023-08-16 17:13:21 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+2023-08-16 17:13:21 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:13:21 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:483)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:12)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	... 19 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at springfox.documentation.spi.DocumentationType.<init>(DocumentationType.java:44)
+	at springfox.documentation.spi.DocumentationType.<clinit>(DocumentationType.java:26)
+	at com.xingxing.config.Swagger2Config.coreApiConfig(Swagger2Config.java:25)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$7df0b914.CGLIB$coreApiConfig$0(<generated>)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$7df0b914$$FastClassBySpringCGLIB$$77c491a1.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$7df0b914.coreApiConfig(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.http.MediaType
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 33 common frames omitted
+2023-08-16 17:15:00 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 40188 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:15:00 -The following profiles are active: dev
+2023-08-16 17:15:00 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:15:00 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:15:00 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2023-08-16 17:15:02 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+2023-08-16 17:15:02 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:15:02 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:483)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:15)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	... 19 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at springfox.documentation.spi.DocumentationType.<init>(DocumentationType.java:44)
+	at springfox.documentation.spi.DocumentationType.<clinit>(DocumentationType.java:26)
+	at com.xingxing.config.Swagger2Config.coreApiConfig(Swagger2Config.java:25)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$e5432eb4.CGLIB$coreApiConfig$0(<generated>)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$e5432eb4$$FastClassBySpringCGLIB$$16b89184.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$e5432eb4.coreApiConfig(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.http.MediaType
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 33 common frames omitted
+2023-08-16 17:15:36 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 25892 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:15:36 -The following profiles are active: dev
+2023-08-16 17:15:36 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:15:36 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:15:36 -Finished Spring Data repository scanning in 10ms. Found 0 Redis repository interfaces.
+2023-08-16 17:15:36 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+2023-08-16 17:15:36 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:15:36 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'coreApiConfig' defined in class path resource [com/xingxing/config/Swagger2Config.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:655)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:483)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1336)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1176)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:556)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:15)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [springfox.documentation.spring.web.plugins.Docket]: Factory method 'coreApiConfig' threw exception; nested exception is java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:650)
+	... 19 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: org/springframework/http/MediaType
+	at springfox.documentation.spi.DocumentationType.<init>(DocumentationType.java:44)
+	at springfox.documentation.spi.DocumentationType.<clinit>(DocumentationType.java:26)
+	at com.xingxing.config.Swagger2Config.coreApiConfig(Swagger2Config.java:25)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$16194997.CGLIB$coreApiConfig$0(<generated>)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$16194997$$FastClassBySpringCGLIB$$2d17f140.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:331)
+	at com.xingxing.config.Swagger2Config$$EnhancerBySpringCGLIB$$16194997.coreApiConfig(<generated>)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+Caused by: java.lang.ClassNotFoundException: org.springframework.http.MediaType
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 33 common frames omitted
+2023-08-16 17:15:56 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 31252 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:15:56 -The following profiles are active: dev
+2023-08-16 17:15:57 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:15:57 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:15:57 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-16 17:16:00 -Started ImWebApplication in 3.874 seconds (JVM running for 5.203)
+2023-08-16 17:16:19 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 42304 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:16:19 -The following profiles are active: dev
+2023-08-16 17:16:19 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:16:19 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:16:20 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2023-08-16 17:16:22 -Started ImWebApplication in 3.786 seconds (JVM running for 5.059)
+2023-08-16 17:16:54 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 2636 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:16:54 -The following profiles are active: dev
+2023-08-16 17:16:54 -HV000001: Hibernate Validator 6.1.5.Final
+2023-08-16 17:16:55 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:16:55 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:16:55 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2023-08-16 17:16:58 -Started ImWebApplication in 4.216 seconds (JVM running for 10.998)
+2023-08-16 17:17:15 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 2636 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:17:15 -The following profiles are active: dev
+2023-08-16 17:17:15 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:17:15 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:17:15 -Finished Spring Data repository scanning in 3ms. Found 0 Redis repository interfaces.
+2023-08-16 17:17:16 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Invocation of init method failed; nested exception is javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+2023-08-16 17:17:16 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-16 17:17:16 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'springApplicationAdminRegistrar' defined in class path resource [org/springframework/boot/autoconfigure/admin/SpringApplicationAdminJmxAutoConfiguration.class]: Invocation of init method failed; nested exception is javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1794)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:594)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at service.ImWebApplication.main(ImWebApplication.java:15)
+Caused by: javax.management.InstanceAlreadyExistsException: org.springframework.boot:type=Admin,name=SpringApplication
+	at com.sun.jmx.mbeanserver.Repository.addMBean(Repository.java:437)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerWithRepository(DefaultMBeanServerInterceptor.java:1898)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerDynamicMBean(DefaultMBeanServerInterceptor.java:966)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerObject(DefaultMBeanServerInterceptor.java:900)
+	at com.sun.jmx.interceptor.DefaultMBeanServerInterceptor.registerMBean(DefaultMBeanServerInterceptor.java:324)
+	at com.sun.jmx.mbeanserver.JmxMBeanServer.registerMBean(JmxMBeanServer.java:522)
+	at org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar.afterPropertiesSet(SpringApplicationAdminMXBeanRegistrar.java:129)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1853)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1790)
+	... 16 common frames omitted
+2023-08-16 17:21:10 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 39104 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:21:10 -The following profiles are active: dev
+2023-08-16 17:21:11 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:21:11 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:21:11 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-16 17:21:14 -Started ImWebApplication in 3.946 seconds (JVM running for 5.335)
+2023-08-16 17:22:42 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 41828 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:22:42 -The following profiles are active: dev
+2023-08-16 17:22:42 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:22:42 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:22:42 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-16 17:22:46 -Started ImWebApplication in 4.722 seconds (JVM running for 6.187)
+2023-08-16 17:23:39 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 32020 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:23:39 -The following profiles are active: dev
+2023-08-16 17:23:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:23:40 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:23:40 -Finished Spring Data repository scanning in 13ms. Found 0 Redis repository interfaces.
+2023-08-16 17:23:43 -Started ImWebApplication in 3.902 seconds (JVM running for 5.186)
+2023-08-16 17:28:02 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 43592 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 17:28:02 -The following profiles are active: dev
+2023-08-16 17:28:03 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 17:28:03 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 17:28:03 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-16 17:28:03 -Tomcat initialized with port(s): 8090 (http)
+2023-08-16 17:28:04 -Root WebApplicationContext: initialization completed in 1178 ms
+2023-08-16 17:28:05 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-16 17:28:05 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-16 17:28:07 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-16 17:28:07 -Context refreshed
+2023-08-16 17:28:07 -Found 1 custom documentation plugin(s)
+2023-08-16 17:28:07 -Scanning for api listing references
+2023-08-16 17:28:07 -Started ImWebApplication in 5.239 seconds (JVM running for 6.523)
+2023-08-16 18:34:48 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-16 18:34:53 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 45664 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 18:34:53 -The following profiles are active: dev
+2023-08-16 18:34:53 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 18:34:53 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 18:34:54 -Finished Spring Data repository scanning in 4ms. Found 0 Redis repository interfaces.
+2023-08-16 18:34:54 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 18:34:54 -Tomcat initialized with port(s): 8090 (http)
+2023-08-16 18:34:54 -Root WebApplicationContext: initialization completed in 940 ms
+2023-08-16 18:34:54 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-16 18:34:57 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-16 18:34:57 -Started ImWebApplication in 4.283 seconds (JVM running for 5.588)
+2023-08-16 18:35:06 -Initializing Servlet 'dispatcherServlet'
+2023-08-16 18:35:06 -Completed initialization in 6 ms
+2023-08-16 18:35:29 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-16 18:35:34 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 28020 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 18:35:34 -The following profiles are active: dev
+2023-08-16 18:35:34 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 18:35:34 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 18:35:34 -Finished Spring Data repository scanning in 4ms. Found 0 Redis repository interfaces.
+2023-08-16 18:35:34 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 18:35:35 -Tomcat initialized with port(s): 8090 (http)
+2023-08-16 18:35:35 -Root WebApplicationContext: initialization completed in 986 ms
+2023-08-16 18:35:35 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-16 18:35:38 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-16 18:35:38 -Started ImWebApplication in 4.39 seconds (JVM running for 5.697)
+2023-08-16 18:35:38 -Initializing Servlet 'dispatcherServlet'
+2023-08-16 18:35:38 -Completed initialization in 5 ms
+2023-08-16 18:40:49 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-16 18:40:53 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 37992 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 18:40:53 -The following profiles are active: dev
+2023-08-16 18:40:54 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 18:40:54 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 18:40:54 -Finished Spring Data repository scanning in 6ms. Found 0 Redis repository interfaces.
+2023-08-16 18:40:54 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 18:40:54 -Tomcat initialized with port(s): 8090 (http)
+2023-08-16 18:40:55 -Root WebApplicationContext: initialization completed in 984 ms
+2023-08-16 18:40:55 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-16 18:40:57 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-16 18:40:57 -Started ImWebApplication in 4.484 seconds (JVM running for 5.814)
+2023-08-16 18:41:03 -Initializing Servlet 'dispatcherServlet'
+2023-08-16 18:41:03 -Completed initialization in 5 ms
+2023-08-16 18:43:52 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-16 18:43:57 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 24476 (C:\Users\DELL\Desktop\dream\xingxing-im\im-web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-im)
+2023-08-16 18:43:57 -The following profiles are active: dev
+2023-08-16 18:43:57 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-16 18:43:57 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-16 18:43:57 -Finished Spring Data repository scanning in 5ms. Found 0 Redis repository interfaces.
+2023-08-16 18:43:58 -No MyBatis mapper was found in '[service]' package. Please check your configuration.
+2023-08-16 18:43:58 -Tomcat initialized with port(s): 8090 (http)
+2023-08-16 18:43:58 -Root WebApplicationContext: initialization completed in 1200 ms
+2023-08-16 18:43:58 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-16 18:43:58 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-16 18:44:01 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-16 18:44:01 -Context refreshed
+2023-08-16 18:44:01 -Found 1 custom documentation plugin(s)
+2023-08-16 18:44:01 -Scanning for api listing references
+2023-08-16 18:44:01 -Started ImWebApplication in 4.965 seconds (JVM running for 6.243)
+2023-08-16 18:44:12 -Initializing Servlet 'dispatcherServlet'
+2023-08-16 18:44:12 -Completed initialization in 6 ms
