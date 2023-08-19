@@ -1,0 +1,570 @@
+2023-08-19 13:02:27 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 28824 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 13:02:27 -The following profiles are active: dev
+2023-08-19 13:02:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 13:02:28 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 13:02:28 -Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2023-08-19 13:02:29 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 13:02:29 -Root WebApplicationContext: initialization completed in 1651 ms
+2023-08-19 13:02:29 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.authorization.UserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-19 13:02:29 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-19 13:02:30 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.authorization.UserMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.authorization.UserMapper' in your configuration.
+
+2023-08-19 13:14:22 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 23460 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 13:14:22 -The following profiles are active: dev
+2023-08-19 13:14:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 13:14:23 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 13:14:23 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-19 13:14:24 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 13:14:24 -Root WebApplicationContext: initialization completed in 1598 ms
+2023-08-19 13:14:24 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.authorization.UserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-19 13:14:24 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-19 13:14:24 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.authorization.UserMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.authorization.UserMapper' in your configuration.
+
+2023-08-19 13:15:58 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 30476 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 13:15:58 -The following profiles are active: dev
+2023-08-19 13:15:59 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 13:15:59 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 13:15:59 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 13:15:59 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 13:15:59 -Root WebApplicationContext: initialization completed in 1366 ms
+2023-08-19 13:16:00 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'userServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.mapper.authorization.UserMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-19 13:16:00 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-19 13:16:00 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.mapper.authorization.UserMapper' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.mapper.authorization.UserMapper' in your configuration.
+
+2023-08-19 13:19:04 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 25332 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 13:19:04 -The following profiles are active: dev
+2023-08-19 13:19:05 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 13:19:05 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 13:19:05 -Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+2023-08-19 13:19:06 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 13:19:06 -Root WebApplicationContext: initialization completed in 1381 ms
+2023-08-19 13:19:08 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 13:19:08 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 13:19:09 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@66944c7c, org.springframework.security.web.context.SecurityContextPersistenceFilter@32d1d6c5, org.springframework.security.web.header.HeaderWriterFilter@49f2646, org.springframework.security.web.authentication.logout.LogoutFilter@7e76a66f, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@d2708a7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@58583a2d, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@e7d0db2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@14993306, org.springframework.security.web.session.SessionManagementFilter@38c55a8a, org.springframework.security.web.access.ExceptionTranslationFilter@335972a5, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@612ac38b]
+2023-08-19 13:19:09 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 13:19:09 -Context refreshed
+2023-08-19 13:19:10 -Found 1 custom documentation plugin(s)
+2023-08-19 13:19:10 -Scanning for api listing references
+2023-08-19 13:19:10 -Started ImWebApplication in 6.003 seconds (JVM running for 7.421)
+2023-08-19 14:39:47 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 28340 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 14:39:47 -The following profiles are active: dev
+2023-08-19 14:39:48 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 14:39:48 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 14:39:48 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 14:39:49 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 14:39:49 -Root WebApplicationContext: initialization completed in 1697 ms
+2023-08-19 14:39:52 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 14:39:52 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 14:39:53 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@400008bf, org.springframework.security.web.context.SecurityContextPersistenceFilter@3e595da3, org.springframework.security.web.header.HeaderWriterFilter@983050b, org.springframework.security.web.authentication.logout.LogoutFilter@2fca282c, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@3dfd7eaa, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@60c4cf2b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7294a684, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@72b1df49, org.springframework.security.web.session.SessionManagementFilter@4bdef487, org.springframework.security.web.access.ExceptionTranslationFilter@6ad3fbe4, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1071ae7c]
+2023-08-19 14:39:53 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 14:39:53 -Context refreshed
+2023-08-19 14:39:53 -Found 1 custom documentation plugin(s)
+2023-08-19 14:39:53 -Scanning for api listing references
+2023-08-19 14:39:53 -Started ImWebApplication in 6.405 seconds (JVM running for 7.907)
+2023-08-19 15:15:14 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 15:15:14 -Completed initialization in 8 ms
+2023-08-19 17:04:20 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:04:28 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 7656 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:04:28 -The following profiles are active: dev
+2023-08-19 17:04:29 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:04:29 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:04:29 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 17:04:29 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:04:29 -Root WebApplicationContext: initialization completed in 1650 ms
+2023-08-19 17:04:30 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.service.authorization.LoginService<?>' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-19 17:04:30 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-19 17:04:30 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.service.authorization.LoginService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.service.authorization.LoginService' in your configuration.
+
+2023-08-19 17:06:22 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 28396 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:06:22 -The following profiles are active: dev
+2023-08-19 17:06:23 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:06:23 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:06:23 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-19 17:06:24 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:06:24 -Root WebApplicationContext: initialization completed in 1376 ms
+2023-08-19 17:06:24 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xingxing.service.authorization.LoginService<?>' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@javax.annotation.Resource(shareable=true, lookup=, name=, description=, authenticationType=CONTAINER, type=class java.lang.Object, mappedName=)}
+2023-08-19 17:06:24 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-19 17:06:24 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+A component required a bean of type 'com.xingxing.service.authorization.LoginService' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'com.xingxing.service.authorization.LoginService' in your configuration.
+
+2023-08-19 17:06:47 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 33612 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:06:48 -The following profiles are active: dev
+2023-08-19 17:06:48 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:06:48 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:06:48 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-19 17:06:49 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:06:49 -Root WebApplicationContext: initialization completed in 1366 ms
+2023-08-19 17:06:49 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+2023-08-19 17:06:49 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-19 17:06:49 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.xingxing.ImWebApplication.main(ImWebApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1307)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.autowireResource(CommonAnnotationBeanPostProcessor.java:521)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.getResource(CommonAnnotationBeanPostProcessor.java:497)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor$ResourceElement.getResourceToInject(CommonAnnotationBeanPostProcessor.java:650)
+	at org.springframework.beans.factory.annotation.InjectionMetadata$InjectedElement.inject(InjectionMetadata.java:239)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:318)
+	... 18 common frames omitted
+Caused by: org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:399)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.resolveBeanByName(AbstractAutowireCapableBeanFactory.java:453)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.autowireResource(CommonAnnotationBeanPostProcessor.java:527)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.getResource(CommonAnnotationBeanPostProcessor.java:497)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor$ResourceElement.getResourceToInject(CommonAnnotationBeanPostProcessor.java:650)
+	at org.springframework.beans.factory.annotation.InjectionMetadata$InjectedElement.inject(InjectionMetadata.java:239)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:318)
+	... 34 common frames omitted
+2023-08-19 17:10:39 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 34700 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:10:39 -The following profiles are active: dev
+2023-08-19 17:10:40 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:10:40 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:10:40 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 17:10:41 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:10:41 -Root WebApplicationContext: initialization completed in 1471 ms
+2023-08-19 17:10:41 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+2023-08-19 17:10:41 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-19 17:10:41 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.xingxing.ImWebApplication.main(ImWebApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1307)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.autowireResource(CommonAnnotationBeanPostProcessor.java:521)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.getResource(CommonAnnotationBeanPostProcessor.java:497)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor$ResourceElement.getResourceToInject(CommonAnnotationBeanPostProcessor.java:650)
+	at org.springframework.beans.factory.annotation.InjectionMetadata$InjectedElement.inject(InjectionMetadata.java:239)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:318)
+	... 18 common frames omitted
+Caused by: org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:399)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.resolveBeanByName(AbstractAutowireCapableBeanFactory.java:453)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.autowireResource(CommonAnnotationBeanPostProcessor.java:527)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.getResource(CommonAnnotationBeanPostProcessor.java:497)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor$ResourceElement.getResourceToInject(CommonAnnotationBeanPostProcessor.java:650)
+	at org.springframework.beans.factory.annotation.InjectionMetadata$InjectedElement.inject(InjectionMetadata.java:239)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:318)
+	... 34 common frames omitted
+2023-08-19 17:11:19 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 28532 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:11:19 -The following profiles are active: dev
+2023-08-19 17:11:20 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:11:20 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:11:20 -Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2023-08-19 17:11:21 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:11:21 -Root WebApplicationContext: initialization completed in 1405 ms
+2023-08-19 17:11:21 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+2023-08-19 17:11:21 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2023-08-19 17:11:21 -Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginController': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:397)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.xingxing.ImWebApplication.main(ImWebApplication.java:10)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'loginServiceImpl': Injection of resource dependencies failed; nested exception is org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:226)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1307)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.autowireResource(CommonAnnotationBeanPostProcessor.java:521)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.getResource(CommonAnnotationBeanPostProcessor.java:497)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor$ResourceElement.getResourceToInject(CommonAnnotationBeanPostProcessor.java:650)
+	at org.springframework.beans.factory.annotation.InjectionMetadata$InjectedElement.inject(InjectionMetadata.java:239)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:318)
+	... 18 common frames omitted
+Caused by: org.springframework.beans.factory.BeanNotOfRequiredTypeException: Bean named 'redisCache' is expected to be of type 'org.springframework.data.redis.cache.RedisCache' but was actually of type 'com.xingxing.commom.util.RedisCache'
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:399)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:207)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.resolveBeanByName(AbstractAutowireCapableBeanFactory.java:453)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.autowireResource(CommonAnnotationBeanPostProcessor.java:527)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.getResource(CommonAnnotationBeanPostProcessor.java:497)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor$ResourceElement.getResourceToInject(CommonAnnotationBeanPostProcessor.java:650)
+	at org.springframework.beans.factory.annotation.InjectionMetadata$InjectedElement.inject(InjectionMetadata.java:239)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:130)
+	at org.springframework.context.annotation.CommonAnnotationBeanPostProcessor.postProcessProperties(CommonAnnotationBeanPostProcessor.java:318)
+	... 34 common frames omitted
+2023-08-19 17:12:35 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 22736 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:12:35 -The following profiles are active: dev
+2023-08-19 17:12:36 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:12:36 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:12:36 -Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2023-08-19 17:12:36 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:12:37 -Root WebApplicationContext: initialization completed in 1468 ms
+2023-08-19 17:12:39 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 17:12:39 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:12:40 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@57f1a1de, org.springframework.security.web.context.SecurityContextPersistenceFilter@2006fdaa, org.springframework.security.web.header.HeaderWriterFilter@7c840fe3, org.springframework.security.web.authentication.logout.LogoutFilter@437c1a87, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@21f9c6ea, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@656c5818, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@303fbc4, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4a6ef712, org.springframework.security.web.session.SessionManagementFilter@6684589a, org.springframework.security.web.access.ExceptionTranslationFilter@75de7009, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@17e6b7e4]
+2023-08-19 17:12:40 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 17:12:40 -Context refreshed
+2023-08-19 17:12:40 -Found 1 custom documentation plugin(s)
+2023-08-19 17:12:40 -Scanning for api listing references
+2023-08-19 17:12:40 -Started ImWebApplication in 5.718 seconds (JVM running for 7.102)
+2023-08-19 17:12:59 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 17:12:59 -Completed initialization in 5 ms
+2023-08-19 17:19:05 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:19:12 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 32388 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:19:12 -The following profiles are active: dev
+2023-08-19 17:19:13 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:19:13 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:19:13 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-19 17:19:14 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:19:14 -Root WebApplicationContext: initialization completed in 1477 ms
+2023-08-19 17:19:16 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 17:19:16 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:19:17 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@79ec57b8, org.springframework.security.web.context.SecurityContextPersistenceFilter@990b86b, org.springframework.security.web.header.HeaderWriterFilter@7a34c1f6, org.springframework.security.web.authentication.logout.LogoutFilter@7981963f, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@2506b881, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@105c6c9e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6edd4fe2, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@56ba8e8c, org.springframework.security.web.session.SessionManagementFilter@562f6681, org.springframework.security.web.access.ExceptionTranslationFilter@70840a5a, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@578d472a]
+2023-08-19 17:19:17 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 17:19:17 -Context refreshed
+2023-08-19 17:19:17 -Found 1 custom documentation plugin(s)
+2023-08-19 17:19:17 -Scanning for api listing references
+2023-08-19 17:19:17 -Started ImWebApplication in 5.75 seconds (JVM running for 7.128)
+2023-08-19 17:19:30 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 17:19:30 -Completed initialization in 7 ms
+2023-08-19 17:21:57 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:22:00 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 21540 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:22:00 -The following profiles are active: dev
+2023-08-19 17:22:01 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:22:01 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:22:01 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 17:22:02 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:22:02 -Root WebApplicationContext: initialization completed in 1425 ms
+2023-08-19 17:22:11 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 17:22:11 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:22:30 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@46d69ca4, org.springframework.security.web.context.SecurityContextPersistenceFilter@4dd4965a, org.springframework.security.web.header.HeaderWriterFilter@1b6cad77, org.springframework.security.web.authentication.logout.LogoutFilter@7e1762e6, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@79df80a4, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4e26987b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@6866e740, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5c9b5e62, org.springframework.security.web.session.SessionManagementFilter@612ac38b, org.springframework.security.web.access.ExceptionTranslationFilter@53918b5e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6207145c]
+2023-08-19 17:22:30 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 17:22:30 -Context refreshed
+2023-08-19 17:22:30 -Found 1 custom documentation plugin(s)
+2023-08-19 17:22:30 -Scanning for api listing references
+2023-08-19 17:22:30 -Started ImWebApplication in 30.17 seconds (JVM running for 31.552)
+2023-08-19 17:22:35 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 17:22:35 -Completed initialization in 6 ms
+2023-08-19 17:33:50 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:33:56 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 18796 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:33:56 -The following profiles are active: dev
+2023-08-19 17:33:57 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:33:57 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:33:57 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 17:33:57 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:33:57 -Root WebApplicationContext: initialization completed in 1416 ms
+2023-08-19 17:34:04 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 17:34:04 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:34:13 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5abb7a8f, org.springframework.security.web.context.SecurityContextPersistenceFilter@72168258, org.springframework.security.web.header.HeaderWriterFilter@1c421b0f, org.springframework.security.web.authentication.logout.LogoutFilter@fefb66c, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@787d1f9c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@b5ff70b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@5b74902c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@6684589a, org.springframework.security.web.session.SessionManagementFilter@6bf54260, org.springframework.security.web.access.ExceptionTranslationFilter@bdda8a7, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5f5923ef]
+2023-08-19 17:34:13 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 17:34:13 -Context refreshed
+2023-08-19 17:34:13 -Found 1 custom documentation plugin(s)
+2023-08-19 17:34:13 -Scanning for api listing references
+2023-08-19 17:34:14 -Started ImWebApplication in 18.531 seconds (JVM running for 19.885)
+2023-08-19 17:34:20 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 17:34:20 -Completed initialization in 8 ms
+2023-08-19 17:38:01 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:38:07 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 19348 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:38:07 -The following profiles are active: dev
+2023-08-19 17:38:08 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:38:08 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:38:08 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 17:38:09 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:38:09 -Root WebApplicationContext: initialization completed in 1466 ms
+2023-08-19 17:39:03 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 17:39:03 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:39:07 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4caf875c, org.springframework.security.web.context.SecurityContextPersistenceFilter@6bf54260, org.springframework.security.web.header.HeaderWriterFilter@bdda8a7, org.springframework.security.web.authentication.logout.LogoutFilter@3d7314b3, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@79be91eb, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@72168258, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@572b4072, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@5d15789f, org.springframework.security.web.session.SessionManagementFilter@713e49c3, org.springframework.security.web.access.ExceptionTranslationFilter@6a38e3d1, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7c840fe3]
+2023-08-19 17:39:07 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 17:39:07 -Context refreshed
+2023-08-19 17:39:07 -Found 1 custom documentation plugin(s)
+2023-08-19 17:39:07 -Scanning for api listing references
+2023-08-19 17:39:07 -Started ImWebApplication in 60.428 seconds (JVM running for 61.871)
+2023-08-19 17:39:12 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 17:39:12 -Completed initialization in 5 ms
+2023-08-19 17:44:37 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:44:59 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 19044 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:44:59 -The following profiles are active: dev
+2023-08-19 17:45:00 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:45:00 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:45:00 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-19 17:45:01 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:45:01 -Root WebApplicationContext: initialization completed in 1475 ms
+2023-08-19 17:45:07 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 17:45:07 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:45:11 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@545f0b6, org.springframework.security.web.context.SecurityContextPersistenceFilter@6a0e97fc, org.springframework.security.web.header.HeaderWriterFilter@d3d5094, org.springframework.security.web.authentication.logout.LogoutFilter@401b67a9, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@29bbc63c, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@45539bd8, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@30665461, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3c9ef37b, org.springframework.security.web.session.SessionManagementFilter@63880be9, org.springframework.security.web.access.ExceptionTranslationFilter@26612078, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@64688978]
+2023-08-19 17:45:11 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 17:45:11 -Context refreshed
+2023-08-19 17:45:11 -Found 1 custom documentation plugin(s)
+2023-08-19 17:45:11 -Scanning for api listing references
+2023-08-19 17:45:11 -Started ImWebApplication in 12.458 seconds (JVM running for 13.884)
+2023-08-19 17:45:45 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 17:45:45 -Completed initialization in 6 ms
+2023-08-19 17:50:19 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:50:45 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 9188 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:50:45 -The following profiles are active: dev
+2023-08-19 17:50:46 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:50:46 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:50:46 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-19 17:50:46 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:50:46 -Root WebApplicationContext: initialization completed in 1413 ms
+2023-08-19 17:50:51 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 17:50:51 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:50:53 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@225ddf5f, org.springframework.security.web.context.SecurityContextPersistenceFilter@4df13dd0, org.springframework.security.web.header.HeaderWriterFilter@39ead1b7, org.springframework.security.web.authentication.logout.LogoutFilter@48da64f2, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@236c098, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@30665461, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@2792c28, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@51468039, org.springframework.security.web.session.SessionManagementFilter@3265995e, org.springframework.security.web.access.ExceptionTranslationFilter@38b54694, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@3278d065]
+2023-08-19 17:50:53 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 17:50:53 -Context refreshed
+2023-08-19 17:50:53 -Found 1 custom documentation plugin(s)
+2023-08-19 17:50:53 -Scanning for api listing references
+2023-08-19 17:50:53 -Started ImWebApplication in 9.16 seconds (JVM running for 10.558)
+2023-08-19 17:50:58 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 17:50:58 -Completed initialization in 7 ms
+2023-08-19 17:51:29 -HikariPool-1 - Starting...
+2023-08-19 17:51:30 -HikariPool-1 - Start completed.
+2023-08-19 17:52:25 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:52:25 -HikariPool-1 - Shutdown initiated...
+2023-08-19 17:52:25 -HikariPool-1 - Shutdown completed.
+2023-08-19 17:52:30 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 14360 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 17:52:30 -The following profiles are active: dev
+2023-08-19 17:52:31 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 17:52:31 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 17:52:31 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 17:52:32 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 17:52:32 -Root WebApplicationContext: initialization completed in 1421 ms
+2023-08-19 17:52:38 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 17:52:38 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 17:52:39 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@af3295f, org.springframework.security.web.context.SecurityContextPersistenceFilter@586486c, org.springframework.security.web.header.HeaderWriterFilter@5e7e7a7e, org.springframework.security.web.authentication.logout.LogoutFilter@5c9b5e62, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@2b6fb197, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@7fbbdd8a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@d271a54, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@27dc81be, org.springframework.security.web.session.SessionManagementFilter@3909a854, org.springframework.security.web.access.ExceptionTranslationFilter@58a8ea6f, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@1ba7db2a]
+2023-08-19 17:52:40 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 17:52:40 -Context refreshed
+2023-08-19 17:52:40 -Found 1 custom documentation plugin(s)
+2023-08-19 17:52:40 -Scanning for api listing references
+2023-08-19 17:52:40 -Started ImWebApplication in 10.195 seconds (JVM running for 11.599)
+2023-08-19 17:52:40 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 17:52:40 -Completed initialization in 7 ms
+2023-08-19 17:53:01 -HikariPool-1 - Starting...
+2023-08-19 17:53:01 -HikariPool-1 - Start completed.
+2023-08-19 17:53:11 -Encoded password does not look like BCrypt
+2023-08-19 17:53:57 -Encoded password does not look like BCrypt
+2023-08-19 17:53:57 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s198ms539µs700ns).
+2023-08-19 18:04:36 -Encoded password does not look like BCrypt
+2023-08-19 18:30:55 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m56s949ms334µs500ns).
+2023-08-19 18:40:29 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 18:40:29 -HikariPool-1 - Shutdown initiated...
+2023-08-19 18:40:29 -HikariPool-1 - Shutdown completed.
+2023-08-19 18:40:37 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 34296 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 18:40:37 -The following profiles are active: dev
+2023-08-19 18:40:38 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 18:40:38 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 18:40:38 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 18:40:38 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 18:40:38 -Root WebApplicationContext: initialization completed in 1587 ms
+2023-08-19 18:40:40 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 18:40:43 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 18:40:44 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@39f68aec, org.springframework.security.web.context.SecurityContextPersistenceFilter@66abb2fa, org.springframework.security.web.header.HeaderWriterFilter@646d58cd, org.springframework.security.web.authentication.logout.LogoutFilter@7831d1aa, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@48e41b5d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2133b712, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@55397d15, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@65ff4b8c, org.springframework.security.web.session.SessionManagementFilter@60b553f, org.springframework.security.web.access.ExceptionTranslationFilter@12270a01, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@74eab077]
+2023-08-19 18:40:44 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 18:40:44 -Context refreshed
+2023-08-19 18:40:44 -Found 1 custom documentation plugin(s)
+2023-08-19 18:40:44 -Scanning for api listing references
+2023-08-19 18:40:44 -Started ImWebApplication in 8.326 seconds (JVM running for 9.772)
+2023-08-19 18:40:52 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 18:40:52 -Completed initialization in 6 ms
+2023-08-19 18:41:34 -HikariPool-1 - Starting...
+2023-08-19 18:41:34 -HikariPool-1 - Start completed.
+2023-08-19 18:42:24 -HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50s380ms648µs500ns).
+2023-08-19 18:54:17 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 18:54:17 -HikariPool-1 - Shutdown initiated...
+2023-08-19 18:54:17 -HikariPool-1 - Shutdown completed.
+2023-08-19 18:54:27 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 10680 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 18:54:27 -The following profiles are active: dev
+2023-08-19 18:54:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 18:54:28 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 18:54:28 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 18:54:29 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 18:54:29 -Root WebApplicationContext: initialization completed in 1423 ms
+2023-08-19 18:54:31 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 18:54:31 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 18:54:32 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@11c999da, org.springframework.security.web.context.SecurityContextPersistenceFilter@5bccaedb, org.springframework.security.web.header.HeaderWriterFilter@11f9b95a, org.springframework.security.web.authentication.logout.LogoutFilter@66b40dd3, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@70881123, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@17ec5e2a, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@484b5a21, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@54f69311, org.springframework.security.web.session.SessionManagementFilter@173cfb01, org.springframework.security.web.access.ExceptionTranslationFilter@508f4bb5, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7f1fec57]
+2023-08-19 18:54:32 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 18:54:32 -Context refreshed
+2023-08-19 18:54:32 -Found 1 custom documentation plugin(s)
+2023-08-19 18:54:32 -Scanning for api listing references
+2023-08-19 18:54:33 -Started ImWebApplication in 5.91 seconds (JVM running for 7.41)
+2023-08-19 18:55:37 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 18:55:37 -Completed initialization in 8 ms
+2023-08-19 18:55:37 -HikariPool-1 - Starting...
+2023-08-19 18:55:37 -HikariPool-1 - Start completed.
+2023-08-19 18:58:36 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-19 18:58:36 -HikariPool-1 - Shutdown initiated...
+2023-08-19 18:58:36 -HikariPool-1 - Shutdown completed.
+2023-08-19 18:58:44 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 19216 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-19 18:58:44 -The following profiles are active: dev
+2023-08-19 18:58:45 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-19 18:58:45 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-19 18:58:45 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-19 18:58:45 -Tomcat initialized with port(s): 8090 (http)
+2023-08-19 18:58:45 -Root WebApplicationContext: initialization completed in 1428 ms
+2023-08-19 18:58:48 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-19 18:58:48 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-19 18:58:49 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@543ac221, org.springframework.security.web.context.SecurityContextPersistenceFilter@2f0e7fa8, org.springframework.security.web.header.HeaderWriterFilter@762cdf46, org.springframework.security.web.authentication.logout.LogoutFilter@52d59507, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@71d55b7e, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@6f428e6e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@26612078, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2270f58d, org.springframework.security.web.session.SessionManagementFilter@7157413e, org.springframework.security.web.access.ExceptionTranslationFilter@2d7aa291, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@360a3106]
+2023-08-19 18:58:49 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-19 18:58:50 -Context refreshed
+2023-08-19 18:58:50 -Found 1 custom documentation plugin(s)
+2023-08-19 18:58:50 -Scanning for api listing references
+2023-08-19 18:58:50 -Started ImWebApplication in 6.355 seconds (JVM running for 7.727)
+2023-08-19 18:59:09 -Initializing Servlet 'dispatcherServlet'
+2023-08-19 18:59:09 -Completed initialization in 6 ms
+2023-08-19 18:59:09 -HikariPool-1 - Starting...
+2023-08-19 18:59:09 -HikariPool-1 - Start completed.
