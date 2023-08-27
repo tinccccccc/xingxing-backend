@@ -1,0 +1,30 @@
+2023-08-21 18:56:47 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 26184 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-21 18:56:47 -The following profiles are active: dev
+2023-08-21 18:56:47 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-21 18:56:47 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-21 18:56:47 -Finished Spring Data repository scanning in 18ms. Found 0 Redis repository interfaces.
+2023-08-21 18:56:48 -Tomcat initialized with port(s): 8090 (http)
+2023-08-21 18:56:48 -Root WebApplicationContext: initialization completed in 1397 ms
+2023-08-21 18:56:50 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-21 18:56:50 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-21 18:56:52 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@2919aff3, org.springframework.security.web.context.SecurityContextPersistenceFilter@b3004e, org.springframework.security.web.header.HeaderWriterFilter@7d551ec6, org.springframework.security.web.authentication.logout.LogoutFilter@35af1558, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@625487a6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@111cbcda, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4a2653a0, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@639948a2, org.springframework.security.web.session.SessionManagementFilter@75663443, org.springframework.security.web.access.ExceptionTranslationFilter@65a80fdb, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@56f61d74]
+2023-08-21 18:56:52 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-21 18:56:52 -Context refreshed
+2023-08-21 18:56:52 -Found 1 custom documentation plugin(s)
+2023-08-21 18:56:52 -Scanning for api listing references
+2023-08-21 18:56:52 -Started ImWebApplication in 5.847 seconds (JVM running for 7.497)
+2023-08-21 23:47:45 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 16500 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-21 23:47:45 -The following profiles are active: dev
+2023-08-21 23:47:46 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-21 23:47:46 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-21 23:47:46 -Finished Spring Data repository scanning in 19ms. Found 0 Redis repository interfaces.
+2023-08-21 23:47:47 -Tomcat initialized with port(s): 8090 (http)
+2023-08-21 23:47:47 -Root WebApplicationContext: initialization completed in 1499 ms
+2023-08-21 23:47:49 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-21 23:47:49 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-21 23:47:51 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7157413e, org.springframework.security.web.context.SecurityContextPersistenceFilter@79ec57b8, org.springframework.security.web.header.HeaderWriterFilter@5abc5854, org.springframework.security.web.authentication.logout.LogoutFilter@521c67f0, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@5a2ae1ab, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@774c5e5c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66a8751a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3245efdb, org.springframework.security.web.session.SessionManagementFilter@7fbbdd8a, org.springframework.security.web.access.ExceptionTranslationFilter@1c610f, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@924f3f1]
+2023-08-21 23:47:51 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-21 23:47:51 -Context refreshed
+2023-08-21 23:47:51 -Found 1 custom documentation plugin(s)
+2023-08-21 23:47:51 -Scanning for api listing references
+2023-08-21 23:47:51 -Started ImWebApplication in 6.045 seconds (JVM running for 7.993)

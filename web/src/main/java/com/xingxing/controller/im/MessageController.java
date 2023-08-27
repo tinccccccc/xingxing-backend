@@ -1,5 +1,6 @@
 package com.xingxing.controller.im;
 
+import com.xingxing.model.im.entity.UserMessage;
 import com.xingxing.service.im.WebSocketService;
 import io.swagger.annotations.Api;
 import org.springframework.http.ResponseEntity;
@@ -24,7 +25,8 @@ public class MessageController {
      * @return
      */
     @GetMapping("/send")
-    public ResponseEntity<String> sendMessage() throws IOException {
+    public ResponseEntity<String> sendMessage(UserMessage message) throws IOException {
+        System.out.println(message);
         return ResponseEntity.ok().build();
     }
 }
