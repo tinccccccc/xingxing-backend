@@ -5,10 +5,8 @@ import com.xingxing.authorization.model.User;
 import com.xingxing.commom.model.ResponseResult;
 import com.xingxing.service.authorization.LoginService;
 import com.xingxing.service.authorization.RegisterService;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import javax.annotation.Resource;
@@ -30,7 +28,7 @@ public class LoginController {
      * @return
      */
     @PostMapping("/user/login")
-    public ResponseResult<Map> login(@RequestBody User user){
+    public ResponseResult<String> login(@RequestBody User user){
 
         return loginService.login(user);
     }
