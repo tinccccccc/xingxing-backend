@@ -1,0 +1,143 @@
+2023-08-31 00:00:07 -----------------------------------------------------------------------------
+2023-08-31 00:00:07 -用户连接:,当前在线人数为:13
+2023-08-31 00:00:07 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:00:07 -----------------------------------------------------------------------------
+2023-08-31 00:00:07 -用户退出,当前在线人数为:13
+2023-08-31 00:00:08 -----------------------------------------------------------------------------
+2023-08-31 00:00:08 -用户连接:,当前在线人数为:14
+2023-08-31 00:00:08 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:00:17 -----------------------------------------------------------------------------
+2023-08-31 00:00:17 -用户连接:,当前在线人数为:14
+2023-08-31 00:00:17 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:01:10 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:01:17 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:02:09 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:02:17 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:03:08 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:03:17 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:04:08 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:04:12 -----------------------------------------------------------------------------
+2023-08-31 00:04:12 -----------------------------------------------------------------------------
+2023-08-31 00:04:12 -用户退出,当前在线人数为:14
+2023-08-31 00:04:12 -用户退出,当前在线人数为:14
+2023-08-31 00:04:12 -----------------------------------------------------------------------------
+2023-08-31 00:04:12 -用户连接:,当前在线人数为:15
+2023-08-31 00:04:12 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:04:21 -----------------------------------------------------------------------------
+2023-08-31 00:04:21 -用户退出,当前在线人数为:15
+2023-08-31 00:04:21 -----------------------------------------------------------------------------
+2023-08-31 00:04:21 -用户连接:,当前在线人数为:16
+2023-08-31 00:04:22 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:04:32 -----------------------------------------------------------------------------
+2023-08-31 00:04:32 -用户退出,当前在线人数为:16
+2023-08-31 00:04:32 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-31 00:04:32 -HikariPool-1 - Shutdown initiated...
+2023-08-31 00:04:32 -HikariPool-1 - Shutdown completed.
+2023-08-31 00:04:38 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 24060 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-31 00:04:38 -The following profiles are active: dev
+2023-08-31 00:04:39 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-31 00:04:39 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-31 00:04:39 -Finished Spring Data repository scanning in 21ms. Found 0 Redis repository interfaces.
+2023-08-31 00:04:40 -Tomcat initialized with port(s): 8090 (http)
+2023-08-31 00:04:40 -Root WebApplicationContext: initialization completed in 1355 ms
+2023-08-31 00:04:42 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-31 00:04:42 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-31 00:04:43 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@639948a2, org.springframework.security.web.context.SecurityContextPersistenceFilter@75663443, org.springframework.security.web.header.HeaderWriterFilter@65a80fdb, org.springframework.security.web.authentication.logout.LogoutFilter@72b10258, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@2baf72d5, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@b3004e, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@4e6280de, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@416d90f0, org.springframework.security.web.session.SessionManagementFilter@40b70f31, org.springframework.security.web.access.ExceptionTranslationFilter@4cd90c36, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@44d84313]
+2023-08-31 00:04:43 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-31 00:04:43 -Context refreshed
+2023-08-31 00:04:43 -Found 1 custom documentation plugin(s)
+2023-08-31 00:04:43 -Scanning for api listing references
+2023-08-31 00:04:43 -Started ImWebApplication in 5.473 seconds (JVM running for 6.703)
+2023-08-31 00:05:25 -Initializing Servlet 'dispatcherServlet'
+2023-08-31 00:05:25 -Completed initialization in 7 ms
+2023-08-31 00:05:25 -HikariPool-1 - Starting...
+2023-08-31 00:05:25 -HikariPool-1 - Start completed.
+2023-08-31 00:05:27 -----------------------------------------------------------------------------
+2023-08-31 00:05:27 -用户连接:,当前在线人数为:1
+2023-08-31 00:05:27 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:06:21 -----------------------------------------------------------------------------
+2023-08-31 00:06:21 -用户退出,当前在线人数为:1
+2023-08-31 00:06:21 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-31 00:06:21 -HikariPool-1 - Shutdown initiated...
+2023-08-31 00:06:21 -HikariPool-1 - Shutdown completed.
+2023-08-31 00:06:27 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 15080 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-31 00:06:27 -The following profiles are active: dev
+2023-08-31 00:06:28 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-31 00:06:28 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-31 00:06:28 -Finished Spring Data repository scanning in 17ms. Found 0 Redis repository interfaces.
+2023-08-31 00:06:29 -Tomcat initialized with port(s): 8090 (http)
+2023-08-31 00:06:29 -Root WebApplicationContext: initialization completed in 1436 ms
+2023-08-31 00:06:31 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-31 00:06:31 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-31 00:06:33 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3155f190, org.springframework.security.web.context.SecurityContextPersistenceFilter@1d8dbf10, org.springframework.security.web.header.HeaderWriterFilter@4b56b517, org.springframework.security.web.authentication.logout.LogoutFilter@d3d5094, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@21e5f0b6, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@4ad3969, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@534fc1f7, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@cfb94fd, org.springframework.security.web.session.SessionManagementFilter@614d7fbf, org.springframework.security.web.access.ExceptionTranslationFilter@498b611e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@5ca4c88a]
+2023-08-31 00:06:33 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-31 00:06:33 -Context refreshed
+2023-08-31 00:06:33 -Found 1 custom documentation plugin(s)
+2023-08-31 00:06:33 -Scanning for api listing references
+2023-08-31 00:06:33 -Started ImWebApplication in 6.125 seconds (JVM running for 7.452)
+2023-08-31 00:08:27 -Initializing Servlet 'dispatcherServlet'
+2023-08-31 00:08:27 -Completed initialization in 6 ms
+2023-08-31 00:09:12 -Shutting down ExecutorService 'applicationTaskExecutor'
+2023-08-31 00:09:17 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 28876 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-31 00:09:17 -The following profiles are active: dev
+2023-08-31 00:09:18 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-31 00:09:18 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-31 00:09:18 -Finished Spring Data repository scanning in 16ms. Found 0 Redis repository interfaces.
+2023-08-31 00:09:19 -Tomcat initialized with port(s): 8090 (http)
+2023-08-31 00:09:19 -Root WebApplicationContext: initialization completed in 1240 ms
+2023-08-31 00:09:21 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-31 00:09:21 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-31 00:09:22 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@77a85e76, org.springframework.security.web.context.SecurityContextPersistenceFilter@3a69014e, org.springframework.security.web.header.HeaderWriterFilter@3155f190, org.springframework.security.web.authentication.logout.LogoutFilter@166ddfb7, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@2365ea38, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@543ac221, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@35d4035f, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@2cebf82f, org.springframework.security.web.session.SessionManagementFilter@5e05a706, org.springframework.security.web.access.ExceptionTranslationFilter@13f36d75, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@7a247711]
+2023-08-31 00:09:22 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-31 00:09:22 -Context refreshed
+2023-08-31 00:09:22 -Found 1 custom documentation plugin(s)
+2023-08-31 00:09:22 -Scanning for api listing references
+2023-08-31 00:09:22 -Started ImWebApplication in 5.259 seconds (JVM running for 6.574)
+2023-08-31 00:09:39 -Initializing Servlet 'dispatcherServlet'
+2023-08-31 00:09:39 -Completed initialization in 6 ms
+2023-08-31 00:10:09 -HikariPool-1 - Starting...
+2023-08-31 00:10:09 -HikariPool-1 - Start completed.
+2023-08-31 00:10:09 -----------------------------------------------------------------------------
+2023-08-31 00:10:09 -用户连接:,当前在线人数为:1
+2023-08-31 00:10:09 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:10:46 -----------------------------------------------------------------------------
+2023-08-31 00:10:46 -用户退出,当前在线人数为:1
+2023-08-31 00:10:47 -----------------------------------------------------------------------------
+2023-08-31 00:10:47 -用户连接:,当前在线人数为:2
+2023-08-31 00:10:47 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:10:55 -----------------------------------------------------------------------------
+2023-08-31 00:10:55 -用户退出,当前在线人数为:2
+2023-08-31 00:11:10 -----------------------------------------------------------------------------
+2023-08-31 00:11:10 -用户连接:,当前在线人数为:3
+2023-08-31 00:11:10 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 00:11:29 -----------------------------------------------------------------------------
+2023-08-31 00:11:29 -用户退出,当前在线人数为:3
+2023-08-31 23:32:31 -Starting ImWebApplication on DESKTOP-A3JQLN5 with PID 23684 (C:\Users\DELL\Desktop\dream\xingxing-backend\web\target\classes started by DELL in C:\Users\DELL\Desktop\dream\xingxing-backend)
+2023-08-31 23:32:31 -The following profiles are active: dev
+2023-08-31 23:32:32 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2023-08-31 23:32:32 -Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-08-31 23:32:32 -Finished Spring Data repository scanning in 21ms. Found 0 Redis repository interfaces.
+2023-08-31 23:32:33 -Tomcat initialized with port(s): 8090 (http)
+2023-08-31 23:32:33 -Root WebApplicationContext: initialization completed in 1555 ms
+2023-08-31 23:32:35 -Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2023-08-31 23:32:36 -Initializing ExecutorService 'applicationTaskExecutor'
+2023-08-31 23:32:37 -Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@3a0baec0, org.springframework.security.web.context.SecurityContextPersistenceFilter@417bfebd, org.springframework.security.web.header.HeaderWriterFilter@b2d8dcd, org.springframework.security.web.authentication.logout.LogoutFilter@44d84313, com.xingxing.authorization.filter.JwtAuthenticationTokenFilter@1860a7a1, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2a4cb8ae, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@1071ae7c, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@50c2ef56, org.springframework.security.web.session.SessionManagementFilter@20155dae, org.springframework.security.web.access.ExceptionTranslationFilter@1123d461, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@552088cc]
+2023-08-31 23:32:37 -Tomcat started on port(s): 8090 (http) with context path ''
+2023-08-31 23:32:37 -Context refreshed
+2023-08-31 23:32:37 -Found 1 custom documentation plugin(s)
+2023-08-31 23:32:37 -Scanning for api listing references
+2023-08-31 23:32:37 -Started ImWebApplication in 6.943 seconds (JVM running for 9.295)
+2023-08-31 23:52:30 -Initializing Servlet 'dispatcherServlet'
+2023-08-31 23:52:30 -Completed initialization in 9 ms
+2023-08-31 23:52:30 -HikariPool-1 - Starting...
+2023-08-31 23:52:30 -HikariPool-1 - Start completed.
+2023-08-31 23:52:32 -----------------------------------------------------------------------------
+2023-08-31 23:52:32 -用户连接:,当前在线人数为:1
+2023-08-31 23:52:32 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 23:53:32 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 23:54:32 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 23:55:32 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 23:56:32 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 23:58:04 -收到用户消息:,报文:{"DevID":{},"DevHeart":{"value":"1"}}
+2023-08-31 23:58:17 -----------------------------------------------------------------------------
+2023-08-31 23:58:17 -用户退出,当前在线人数为:1
